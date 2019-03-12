@@ -1,6 +1,7 @@
 Nexmo Client Library for PHP 
 ============================
 [![Build Status](https://api.travis-ci.org/Nexmo/nexmo-php.svg?branch=master)](https://travis-ci.org/Nexmo/nexmo-php)
+[![Coverage Status](https://coveralls.io/repos/github/Nexmo/nexmo-php/badge.svg)](https://coveralls.io/github/Nexmo/nexmo-php)
 [![Latest Stable Version](https://poser.pugx.org/nexmo/client/v/stable)](https://packagist.org/packages/nexmo/client)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.txt)
 
