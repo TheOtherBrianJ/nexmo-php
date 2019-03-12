@@ -25,7 +25,8 @@
     "phpunit/phpunit": "^5.7",
     "php-http/mock-client": "^0.3.0",
     "estahn/phpunit-json-assertions": "^1.0.0",
-    "squizlabs/php_codesniffer": "^3.1"
+    "squizlabs/php_codesniffer": "^3.1",
+    "php-coveralls/php-coveralls": "^2.1"
   },
   "autoload": {
     "psr-4": {
